@@ -1,0 +1,14 @@
+{
+  "name": "sky-development-enviorment-api",
+  "version": "0.00.01",
+  "description": "data for the users of sky develppment enviorment",
+  "main": "server.js",
+  "author": "AustinLynes",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
